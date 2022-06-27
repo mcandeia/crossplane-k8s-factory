@@ -1,0 +1,9 @@
+
+participantGroups:
+- name: candy-svcs
+  members:
+  - mme1
+  region: brazilsouth
+  nodeCount: 2
+  aksVersion: "1.23.5"
+  azureSP: "$KEY_HERE"
